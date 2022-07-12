@@ -1,12 +1,12 @@
 {
-  "name": "vite-react",
-  "version": "1.0.0",
+  "name": "food-sdu",
+  "version": "0.0.1",
   "author": {
-    "name": "云深",
-    "email": "yuns.xie@qq.com"
+    "name": "ryuujo",
+    "email": "me@ryuujo.com"
   },
   "scripts": {
-    "dev": "cross-env BROWSER=chrome vite --host",
+    "dev": "cross-env BROWSER=edge vite --host",
     "dev:force": "npm run dev -- --force",
     "build": "vite build",
     "serve": "vite preview --host",

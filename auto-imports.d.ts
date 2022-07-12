@@ -5,14 +5,7 @@ declare global {
   const createContext: typeof import('react')['createContext']
   const createElement: typeof import('react')['createElement']
   const forwardRef: typeof import('react')['forwardRef']
-  const useCallback: typeof import('react')['useCallback']
-  const useContext: typeof import('react')['useContext']
-  const useEffect: typeof import('react')['useEffect']
   const useImperativeHandle: typeof import('react')['useImperativeHandle']
   const useLayoutEffect: typeof import('react')['useLayoutEffect']
-  const useMemo: typeof import('react')['useMemo']
-  const useReducer: typeof import('react')['useReducer']
-  const useRef: typeof import('react')['useRef']
-  const useState: typeof import('react')['useState']
 }
 export {}
